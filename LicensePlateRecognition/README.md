@@ -1,6 +1,7 @@
 # LicensePlateRecognition
 
-Aplicatia e impartita in doua foldere. 
+This app contains two parts
 
-Primul folder este reprezentat de detectarea folosind Yolo si OpenCV.
-Al doilea folder este reprezentat de detectarea folosind OpenCV si KNN pentru antrenarea datelor.
+The first one represents the detection of the plates using OpenCV and YOLO for data training.
+
+The second one represents the text recognition. For this part I used Open CV and KNN for data training.
